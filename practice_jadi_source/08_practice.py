@@ -1,3 +1,4 @@
+# offer
 buy = int(input())
 if 50000 < buy :
     buy = 0.8 * buy
