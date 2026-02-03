@@ -7,4 +7,6 @@ eshterak = []
 for i in setA:
     if i in setB:
         eshterak.append(i)
+sum = set(sum)
+eshterak = set(eshterak)
 print(f"sum : {sum} , eshterak : {eshterak}")
